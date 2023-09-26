@@ -93,8 +93,10 @@ export default {
 </script>
 
 <template>
-  <h1>Počítadlo kliknutí</h1>
-  <ButtonCounter></ButtonCounter>
+  <div>
+    <h1>Počítadlo kliknutí</h1>
+    <ButtonCounter></ButtonCounter>
+  </div>
 </template>
 ```
 
