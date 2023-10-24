@@ -39,9 +39,9 @@ Direktívu ``v-bind`` nie je potrebné explicitne písať. Môžeme používať 
 
 ## Jednosmerné vs obojsmerné previazanie
 
-Ako sme si spomínali na prednáške, v reaktívnych rámcoch sú spravidla modely (JavaScript objekty, premenné) napojené na DOM (Document Object Model) jednosmerným previazaním (angl. one-way binding), alebo obojsmerným previazaním (angl. two-way binding). Zjednodušene povedané, pri jednosmernom previazaní je JavaScript premenná napojená na DOM. Pri obojsmernom previazaní sú dáta napojené z DOMu späť na JavaScript premennú.
+Ako sme si spomínali na prednáške, v reaktívnych rámcoch sú spravidla modely (JavaScript objekty, premenné) napojené na DOM (Document Object Model) jednosmerným previazaním (angl. one-way data binding), alebo obojsmerným previazaním (angl. two-way data binding). Zjednodušene povedané, pri jednosmernom previazaní je JavaScript premenná napojená na DOM. Pri obojsmernom previazaní sú dáta napojené z DOMu späť na JavaScript premennú.
 
-Najlepšie to bude ilustrovať príklad. Pridajme do komponentu ButtonCounter HTML element input:
+Najlepšie to bude ilustrovať príklad. Pridajme do komponentu ButtonCounter HTML element ``<input>``:
 
 ```js
 <script>
