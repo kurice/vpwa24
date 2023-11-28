@@ -20,3 +20,8 @@
     * [1. časť: vytvorenie projektov, nainštalovanie prerekvizít a vytvorenie databázových modelov](slek/part1/readme.md)
     * [2. časť: vytvorenie autentifikačného aparátu na klientovi a server API](slek/part2/readme.md)
     * [3. časť: vytvorenie aparátu na posielanie správ cez websockety](slek/part3/readme.md)
+
+4. [SSR, SSG, Hydration, PWA](zdroje/06-pwa-ssr.pdf)
+    * [Example Vue SSR](zdroje/example-vue-ssr.js)
+    * [Example Vue SSR Express Framework](zdroje/server-express.js)
+    * [Hydration Client](zdroje/hydration/client-hydration.js), [Hydration Server](zdroje/hydration/server-hydration.js), [Hydration Universal Code](zdroje/hydration/app-hydration.js) 
