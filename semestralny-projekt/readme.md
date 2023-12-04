@@ -17,7 +17,7 @@ použijete cudzí materiál a neuvediete zdroj, práca môže byť považovaná 
 
 ## Termíny odovzdania
 * **Odovzdanie 1. fázy projektu: koniec 6. týždňa semestra - 29. 10. do 23:59 v AIS, 12 bodov,** vytvorenie responzívneho klikateľného prototypu používateľského rozhrania aplikácie na textovú komunikáciu vo forme Single Page Aplikácie (SPA) pre všetky prípady použitia s použitím rámca Quasar (framework), návrh dátového logického modelu v UML notácii
-* **Odovzdanie 2. fázy projektu: koniec 12. týždňa semestra - 9. 12., do 23:59 v AIS, 30 bodov** vytvorenie progresívnej webovej aplikácie (PWA) na textovú komunikáciu v štýle IRC (Slack) podľa požiadaviek v zadaní projektu, dokumentácia
+* **Odovzdanie 2. fázy projektu: koniec 12. týždňa semestra - 10. 12., do 23:59 v AIS, 30 bodov** vytvorenie progresívnej webovej aplikácie (PWA) na textovú komunikáciu v štýle IRC (Slack) podľa požiadaviek v zadaní projektu, dokumentácia
 
 
 ## Termíny konzultácií k projektu
