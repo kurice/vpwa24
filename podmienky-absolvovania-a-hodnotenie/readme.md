@@ -22,7 +22,7 @@ Počas semestra študenti vypracujú projekt demonštrujúci progresívnu webov�
 Projekt je hodnotený max. 47 bodmi a vypracováva sa priebežne počas semestra, čo je prezentované a bodované v 2 (dvoch) fázach a v jednom kontrolnom bode:
 
 * 1.fáza  - 12 bodov, odovzdanie koncom 6. týždňa (29. 10., AIS 23:59), prezentovanie v 7. týždni na cvičení - vytvorenie responzívneho klikateľného prototypu používateľského rozhrania aplikácie na textovú komunikáciu vo forme Single Page Aplikácie (SPA) pre všetky prípady použitia s použitím rámca Quasar (framework), návrh dátového logického modelu v UML notácii
-* 2.fáza - 30 bodov, odovzdanie koncom 12. týždňa (9. 12., AIS 23:59), prezentovanie v 13. týždni na cvičení - vytvorenie progresívnej webovej aplikácie (PWA) na textovú komunikáciu v štýle IRC (Slack) podľa požiadaviek v zadaní projektu, dokumentácia
+* 2.fáza - 30 bodov, odovzdanie koncom 12. týždňa (10. 12., AIS 23:59), prezentovanie v 13. týždni na cvičení - vytvorenie progresívnej webovej aplikácie (PWA) na textovú komunikáciu v štýle IRC (Slack) podľa požiadaviek v zadaní projektu, dokumentácia
 
 Bez odovzdania projektu v 1. fáze, ktorá je cvičiacim akceptovaná a spĺňa minimálnu úroveň kvality, nie je možné odovzdať projekt v 2. (finálnej) fáze, a teda nebude možné získať príslušné body.
 
