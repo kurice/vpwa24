@@ -27,5 +27,5 @@
     * [Hydration Client](zdroje/hydration/client-hydration.js), [Hydration Server](zdroje/hydration/server-hydration.js), [Hydration Universal Code](zdroje/hydration/app-hydration.js) 
 
 5. Blok DevOps (nasadzovanie v prostredí cloudu):
-    * [DevOps, 1. a 2. časť: Mikroslužby, HW architektúry, virtualizácia, kontajnerizácia aplikácií](zdroje/7p-devops-01-02-mikrosluzby virtualizacia-docker-orchestracia-cloud.pdf)
+    * [DevOps, 1. a 2. časť: Mikroslužby, HW architektúry, virtualizácia, kontajnerizácia aplikácií](zdroje/7p-devops-01-02-mikrosluzby-virtualizacia-docker-orchestracia-cloud.pdf)
     * [DevOps, 3. časť: Dostupnosť služby, CDN, zálohy, CI/CD, testovanie, bezpečnosť](zdroje/8p-devops-03-dostupnost-CDN-CICD-TDD-bezpecnost.pdf)
