@@ -95,7 +95,7 @@ V kontrolnej fáze - v 10. týždni semestra - sa očakáva implementovaná zna�
 
 
 ## Implementačné prostredie
-Odporúčané technológie:
+Odporúčané (povinné) technológie:
 * Tučný klient (SPA/PWA) - rámec Quasar
 * Služby biznis logiky (backend) - rámec AdonisJS
 * PostgreSQL relačný databázový systém

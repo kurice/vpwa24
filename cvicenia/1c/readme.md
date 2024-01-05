@@ -37,7 +37,7 @@ Prosim, vo voľnom čase sa začnite [oboznamovať širšie s NPM](https://css-t
 ```js
 npm run dev
 ```
-Vykonaním príkazu sa zostaví aplikácia v režime dev a inicializuje Node.js dev server na localhoste. Aplikáciu otvoríme v prehliadači priamo kliknutím na odkaz localhostu v termináli (napr. ``http://localhost:3000/``), alebo zadaním predmetnej adresy do pola s URL adresou vo webvom prehliadači.
+Vykonaním príkazu sa zostaví aplikácia v režime dev a inicializuje Node.js dev server na localhoste. Aplikáciu otvoríme v prehliadači priamo kliknutím na odkaz localhostu v termináli (napr. ``http://localhost:3000/``), alebo zadaním predmetnej adresy do pola s URL adresou vo webovom prehliadači.
 
 Pre informáciu, nasledujúciim príkazom vytvoríme produkčné zostavenie (build) našej aplikácie, ktoré sa uloží do priečinku ``./dist``. 
 ```js
@@ -72,7 +72,7 @@ import RootComponent from './RootComponent.vue'
 createApp(RootComponent).mount('#app')
 ```
 
-Direktívou ``import`` "sprístupňujeme" komponent v aplikačnom kóde. Za direktívou je alias komponentu a následne cesta k súboru s komponentom. Všimnime si, že sme upravili direktívu ``inmport`` tak, aby aj alias, pod ktorým sa budeme odkazovať na premenovaný komponent reflektoval názov komponentu. Pozn., alias a názov súboru komponentu sú dve rozdielne veci a záleži, ako si zvolíme konvenciu pomenovania komponentov v projekte (tzv. naming conventions, [mali by sme byť konzistentní naprieč celým projektom](https://medium.com/swlh/best-practices-for-writing-vue-apps-component-naming-and-organization-6c1593a251a0)).
+Direktívou ``import`` "sprístupňujeme" komponent v aplikačnom kóde. Za direktívou je alias komponentu a následne cesta k súboru s komponentom. Všimnime si, že sme upravili direktívu ``import`` tak, aby aj alias, pod ktorým sa budeme odkazovať na premenovaný komponent reflektoval názov komponentu. Pozn., alias a názov súboru komponentu sú dve rozdielne veci a záleži, ako si zvolíme konvenciu pomenovania komponentov v projekte (tzv. naming conventions, [mali by sme byť konzistentní naprieč celým projektom](https://medium.com/swlh/best-practices-for-writing-vue-apps-component-naming-and-organization-6c1593a251a0)).
 
 Ak máme stále spustenú aplikáciu v režime dev cez príkaz ``npm run dev``, tak uloženie súboru vykoná automatické prekreslenie aplikácie. Akákoľvek zmena sa prejavuje v reálnom čase (nie je potrebný "reload" vo webovom prehliadači). 
 
@@ -124,7 +124,7 @@ export default {
 
 Vidíme, že náš další SFC (Single-File-Component) má logiku a šablónu (štýly zatiaľ neriešime). V logike už máme aj model komponentu, reprezentovaný JavaScript (JS) funkciou ``data()``. Táto funkcia je zároveň objektom (špecifikum jazyka JS) s atribútom ``count`` inicializovanom na hodnotu 0. 
 
-Šablóna obsahuje tlačidlo - HTML element ``<button>`` - s Vue.js direktívou ``v-on:click`` alebo skrátene iba ``@ciick``. Po kliknutí na tlačidlo sa inkrementuje model - atribút ``count``. Hodnota atribútu sa vykresľuje v obsahu elementu ``<button>`` cez tzv. Mustache syntax ``{{ count }}``. Spomeňte si na prednášku, kde sme si vysvetľovali koncept reaktivity - jednosmerné, obojsmerné previazanie (tzv. One-way and Two-way Data Binding). 
+Šablóna obsahuje tlačidlo - HTML element ``<button>`` - s Vue.js direktívou ``v-on:click`` alebo skrátene iba ``@click``. Po kliknutí na tlačidlo sa inkrementuje model - atribút ``count``. Hodnota atribútu sa vykresľuje v obsahu elementu ``<button>`` cez tzv. Mustache syntax ``{{ count }}``. Spomeňte si na prednášku, kde sme si vysvetľovali koncept reaktivity - jednosmerné, obojsmerné previazanie (tzv. One-way and Two-way Data Binding). 
 
 
 ## Lokálne vs Globálne zaregistrovanie komponentu
